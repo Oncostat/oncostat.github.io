@@ -1,5 +1,3 @@
-# This is the Oncostat team website
-
 ## Teaching
 
 [R Notebooks](https://github.com/Oncostat/R_notebooks)]
