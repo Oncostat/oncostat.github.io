@@ -1,6 +1,6 @@
 ## Teaching
 
- + [R Notebooks](https://github.com/Oncostat/R_notebooks)]
+ + [R Notebooks](https://github.com/Oncostat/R_notebooks)
  + INSERM workshop 2017: predictionPenalized [[link](https://github.com/Oncostat/predictionPenalized)]
 
 ## Software
