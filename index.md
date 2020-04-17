@@ -1,14 +1,14 @@
-![logo GR](https://www.gustaveroussy.fr/sites/all/themes/gustave_roussy/logo.png)
-![logo inserm](https://www.inserm.fr/themes/inserm/logo.png)
-![logo LCC](https://www.ligue-cancer.net/sites/all/themes/ligue/logo.png)
-<img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="200px">
 
+<img src="https://www.gustaveroussy.fr/sites/all/themes/gustave_roussy/logo.png" alt="logo GR">
+<img src="https://www.inserm.fr/themes/inserm/logo.png" alt="logo INSERM" width="200px">
+<img src="https://www.ligue-cancer.net/sites/all/themes/ligue/logo.png" alt="logo LCC">
+<img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
 
 ## Teaching
 
  + [R Notebooks](https://github.com/Oncostat/R_notebooks)
  + INSERM workshop 2017: predictionPenalized [[link](https://github.com/Oncostat/predictionPenalized)]
- + Book: Textbook of Clinical Trials in Oncology: A Statistical Perspective [[link]( https://www.routledge.com/Textbook-of-Clinical-Trials-in-Oncology-A-Statistical-Perspective/Halabi-Michiels/p/book/9781138083776)] and [[supplemental material](https://www.routledge.com/downloads/K34556/stat%20code%20book%20halabi%20michiels.zip)]
+ + Book: Textbook of Clinical Trials in Oncology: A Statistical Perspective [[link]( https://www.routledge.com/Textbook-of-Clinical-Trials-in-Oncology-A-Statistical-Perspective/Halabi-Michiels/p/book/9781138083776) and [supplemental material](https://www.routledge.com/downloads/K34556/stat%20code%20book%20halabi%20michiels.zip)]
 
 
 ## Software
