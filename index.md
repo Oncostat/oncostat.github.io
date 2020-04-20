@@ -4,6 +4,8 @@
 <img src="https://www.ligue-cancer.net/sites/all/themes/ligue/logo.png" alt="logo LCC">
 <img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
 
+Statistical packages, teaching material or other developed by the Oncostat (CESP U1018 INSERM, Univ. Paris-Saclay, Department of Biostatistics and Epidemiology, Gustave Roussy) team members (https://cesp.inserm.fr/en/equipe/oncostat).
+
 ## Teaching
 
  + [R Notebooks](https://github.com/Oncostat/R_notebooks)
@@ -15,18 +17,18 @@
 
 ### R packages and code
 
-#### Validated
-
- + Biomarker selection in penalized regression models [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
- + Parametric Frailty Models [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/parfm)](https://cran.r-project.org/package=parfm) [[link](https://github.com/Oncostat/parfm)]
- + Evaluation of Failure Time Surrogate Endpoints in Individual Patient Data Meta-Analyses [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/surrosurv)](https://cran.r-project.org/package=surrosurv) [[link](https://github.com/Oncostat/surrosurv)]
+ + Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
+   + *Described in*: Nils Ternès, Federico Rotolo, Stefan Michiels, biospear: an R package for biomarker selection in penalized Cox regression, Bioinformatics, Volume 34, Issue 1, 01 January 2018, Pages 112–113, https://doi.org/10.1093/bioinformatics/btx560
+ + Evaluation of Failure Time Surrogate Endpoints in Individual Patient Data Meta-Analyses, package `surrosurv` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/surrosurv)](https://cran.r-project.org/package=surrosurv) [[link](https://github.com/Oncostat/surrosurv)]
+   + *Described in*: Federico Rotolo, Xavier Paoletti, Stefan Michiels, surrosurv: an R package for the evaluation of failure time surrogate endpoints in individual patient data meta-analyses of randomized clinical trials https://doi.org/10.1016/j.cmpb.2017.12.005
+ + Parametric Frailty Models, package `parfm` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/parfm)](https://cran.r-project.org/package=parfm) [[link](https://github.com/Oncostat/parfm)]
+ + Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases [[link](https://github.com/Oncostat/Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases)]
+ + Mixed Effect Multivariate Continuation Ratio model [[link](https://github.com/Oncostat/POP1)]
+ + Estimation of the probability of patients having a time to progression ratio superior to a given threshold [[link](https://github.com/Oncostat/TTPratio)]
  
 #### Under development 
 
  + Drop the losers with historical control group [[link](https://github.com/Oncostat/DTLHC)]
- + Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases [[link](https://github.com/Oncostat/Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases)]
- + Mixed Effect Multivariate Continuation Ratio model [[link](https://github.com/Oncostat/POP1)]
- + Estimation of the probability of patients having a time to progression ratio superior to a given threshold [[link](https://github.com/Oncostat/TTPratio)]
 
  
 ### SAS macros
@@ -38,6 +40,7 @@
 ## Supplementary Material of Publication
 
  + PrognosTILs application [[link](https://github.com/Oncostat/PrognosTILs)]
+ + Brard C, Le Teuff G, Le Deley MC, Hampson LV. Bayesian survival analysis in clinical trials: What methods are used in practice? Clinical Trials. 2017; 14(1):78-87 [Supplementary material (Excel table)](https://www.gustaveroussy.fr/sites/default/files/article_ct-16-0032-r1_supplementary_material.xlsx)
  
 ## Other
 
