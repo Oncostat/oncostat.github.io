@@ -4,8 +4,6 @@
 <img src="https://www.ligue-cancer.net/sites/all/themes/ligue/logo.png" alt="logo LCC">
 <img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
 
-Statistical packages, teaching material or other developed by the Oncostat (CESP U1018 INSERM, Univ. Paris-Saclay, Department of Biostatistics and Epidemiology, Gustave Roussy) team members (https://cesp.inserm.fr/en/equipe/oncostat).
-
 ## Teaching
 
  + [R Notebooks](https://github.com/Oncostat/R_notebooks)
