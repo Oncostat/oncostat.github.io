@@ -4,7 +4,7 @@
 <img src="https://www.ligue-cancer.net/sites/all/themes/ligue/logo.png" alt="logo LCC">
 <img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
 
-Oncostat is a research team of the Centre for Epidemiology and Population Health (CESP). More information on  https://cesp.inserm.fr/en/equipe/oncostat.
+Oncostat is a research team of the Centre for Epidemiology and Population Health (CESP). More information on  [https://cesp.inserm.fr/en/equipe/oncostat](https://cesp.inserm.fr/en/equipe/oncostat).
 
 ## Teaching
 
