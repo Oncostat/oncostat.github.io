@@ -41,7 +41,7 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 ## Supplementary Material of Publication
 + Brard C, Le Teuff G, Le Deley MC, Hampson LV. Bayesian survival analysis in clinical trials: What methods are used in practice? Clinical Trials. 2017; 14(1):78-87 [Supplementary material (Excel table)](https://www.gustaveroussy.fr/sites/default/files/article_ct-16-0032-r1_supplementary_material.xlsx)
 
-#### Under development 
+## Under development 
 
  + Drop the losers with historical control group [[link](https://github.com/Oncostat/DTLHC)]
 
