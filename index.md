@@ -8,9 +8,9 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ## Teaching
 
+ + Book: Textbook of Clinical Trials in Oncology: A Statistical Perspective, 2019, CRC Press, edited by Susan Halabi & Stefan Michiels [[link]( https://www.routledge.com/Textbook-of-Clinical-Trials-in-Oncology-A-Statistical-Perspective/Halabi-Michiels/p/book/9781138083776) and [supplemental material](https://www.routledge.com/downloads/K34556/stat%20code%20book%20halabi%20michiels.zip)]
  + [R Notebooks](https://github.com/Oncostat/R_notebooks)
  + INSERM workshop 2017: predictionPenalized [[link](https://github.com/Oncostat/predictionPenalized)]
- + Book: Textbook of Clinical Trials in Oncology: A Statistical Perspective [[link]( https://www.routledge.com/Textbook-of-Clinical-Trials-in-Oncology-A-Statistical-Perspective/Halabi-Michiels/p/book/9781138083776) and [supplemental material](https://www.routledge.com/downloads/K34556/stat%20code%20book%20halabi%20michiels.zip)]
 
 
 ## Software
@@ -22,26 +22,27 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
  + Evaluation of Failure Time Surrogate Endpoints in Individual Patient Data Meta-Analyses, package `surrosurv` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/surrosurv)](https://cran.r-project.org/package=surrosurv) [[link](https://github.com/Oncostat/surrosurv)]
    + *Described in*: Federico Rotolo, Xavier Paoletti, Stefan Michiels, surrosurv: an R package for the evaluation of failure time surrogate endpoints in individual patient data meta-analyses of randomized clinical trials https://doi.org/10.1016/j.cmpb.2017.12.005
  + Parametric Frailty Models, package `parfm` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/parfm)](https://cran.r-project.org/package=parfm) [[link](https://github.com/Oncostat/parfm)]
- + Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases [[link](https://github.com/Oncostat/Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases)]
+ + Group Sequential Adaptive Designs in Series of Time-To-Event Randomised Trials in Rare Diseases: A Simulation Study [[link](https://github.com/Oncostat/Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases)]
  + Mixed Effect Multivariate Continuation Ratio model [[link](https://github.com/Oncostat/POP1)]
  + Estimation of the probability of patients having a time to progression ratio superior to a given threshold [[link](https://github.com/Oncostat/TTPratio)]
- 
-#### Under development 
-
- + Drop the losers with historical control group [[link](https://github.com/Oncostat/DTLHC)]
 
  
 ### SAS macros
  + Dual-Agent Bayesian Continual Reassessment Method [[link](https://github.com/Oncostat/CRM2dim)]
 
+
+### Online prediction models
+ + PrognosTILs application [[link](https://github.com/Oncostat/PrognosTILs)]
+
 ### Others
  + BenchmarkNCVTools [[link](https://github.com/Oncostat/BenchmarkNCVTools)]
 
+
 ## Supplementary Material of Publication
++ Brard C, Le Teuff G, Le Deley MC, Hampson LV. Bayesian survival analysis in clinical trials: What methods are used in practice? Clinical Trials. 2017; 14(1):78-87 [Supplementary material (Excel table)](https://www.gustaveroussy.fr/sites/default/files/article_ct-16-0032-r1_supplementary_material.xlsx)
 
- + PrognosTILs application [[link](https://github.com/Oncostat/PrognosTILs)]
- + Brard C, Le Teuff G, Le Deley MC, Hampson LV. Bayesian survival analysis in clinical trials: What methods are used in practice? Clinical Trials. 2017; 14(1):78-87 [Supplementary material (Excel table)](https://www.gustaveroussy.fr/sites/default/files/article_ct-16-0032-r1_supplementary_material.xlsx)
- 
-## Other
+#### Under development 
 
- + ...
+ + Drop the losers with historical control group [[link](https://github.com/Oncostat/DTLHC)]
+
+
