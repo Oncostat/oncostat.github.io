@@ -32,7 +32,7 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 
 ### Online prediction models
- + PrognosTILs application [[link](https://github.com/Oncostat/PrognosTILs)]
+ + Prognostic model for triple-negative breast cancer patients treated with anthracycline-based chemotherapy based on clinicopathological factors and tumour infiltrating lymphocytes [[link](https://github.com/Oncostat/PrognosTILs)]
 
 ### Others
  + BenchmarkNCVTools [[link](https://github.com/Oncostat/BenchmarkNCVTools)]
