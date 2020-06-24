@@ -19,7 +19,7 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
  + Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
  
-    *Described in*: Nils Ternès, Federico Rotolo, Stefan Michiels, biospear: an R package for biomarker selection in penalized Cox regression, Bioinformatics, Volume 34, Issue 1, 01 January 2018, Pages 112–113. [https://doi.org/10.1093/bioinformatics/btx560].
+    *Described in*: Nils Ternès, Federico Rotolo, Stefan Michiels, biospear: an R package for biomarker selection in penalized Cox regression, Bioinformatics, Volume 34, Issue 1, 01 January 2018, Pages 112–113. [[DOI](https://doi.org/10.1093/bioinformatics/btx560)].
 
 + Evaluation of Failure Time Surrogate Endpoints in Individual Patient Data Meta-Analyses, package `surrosurv` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/surrosurv)](https://cran.r-project.org/package=surrosurv) [[link](https://github.com/Oncostat/surrosurv)]
    
