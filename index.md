@@ -17,6 +17,10 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ### R packages and code
 
++ Frequest individual patient data network meta-analysis for time-to-event data [[link](https://github.com/EdOllier/PenalizedPoissonNMA].
+    
+    *Described in*: Ollier E, Blanchard P, Le Teuff G, Michiels S. Penalized Poisson model for network meta-analysis of individual patient time-to-event data. Stat Med. 2021 Oct 28. doi: 10.1002/sim.9240. [[DOI](https://doi.org10.1002/sim.9240]. 
+
  + Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
  
     *Described in*: Nils Ternès, Federico Rotolo, Stefan Michiels, biospear: an R package for biomarker selection in penalized Cox regression, Bioinformatics, Volume 34, Issue 1, 01 January 2018, Pages 112–113. [[DOI](https://doi.org/10.1093/bioinformatics/btx560)].
