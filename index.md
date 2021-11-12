@@ -24,10 +24,14 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 + SImulation study comparing individual patient vs. agregate 3-node time-to-event network meta-analysis with an effect modifier, using a unpenaliszed Poisson regression model. [[link](https://github.com/Oncostat/One_step_frequentitst_IPD_NMA)].
     
  *Described in*: Faron M, Blanchard P, Ribassin-Majed L, Pignon JP, Michiels S, Le Teuff G. A frequentist one-step model for a simple network meta-analysis of time-to-event data in presence of an effect modifier. PLoS One. 2021 Nov 1;16(11):e0259121. [[DOI](https://doi.org/10.1371/journal.pone.0259121)]. 
-
+ 
 + Drop the losers with historical control group with time-to-event outcomes [[link](https://github.com/Oncostat/DTLHC)]
 
    *Described in*: Abbas R, Wason J, Michiels S, Le Teuff G. A two-stage drop-the-losers design for time-to-event outcome using a historical control arm. Pharm Stat. 2021 Sep 8. doi: 10.1002/pst.2168. [[DOI](https://doi.org/10.1002/pst.2168)]. 
+
++ Neural network implementations for time-to-event outcomes, including the use of pseudo-observations [[link](https://github.com/eroblin/NN_Pseudobs)]
+
+   *Described in*: Elvire Roblin, PH Paul-Henri Cournede, Stefan Michiels (2020)  On the Use of Neural Networks with Censored Time-to-Event Data In: Mathematical and Computational Oncology. ISMCO 2020. Lecture Notes in Computer Science, vol 12508. [[DOI](https://doi.org/10.1007/978-3-030-64511-3_6)]. 
 
  + Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
  
