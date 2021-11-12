@@ -17,9 +17,13 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ### R packages and code
 
-+ Frequest individual patient data network meta-analysis for time-to-event data [![link](https://github.com/EdOllier/PenalizedPoissonNMA)].
++ Frequest individual patient data network meta-analysis for time-to-event data [[link](https://github.com/EdOllier/PenalizedPoissonNMA)].
     
-    *Described in*: Ollier E, Blanchard P, Le Teuff G, Michiels S. Penalized Poisson model for network meta-analysis of individual patient time-to-event data. Stat Med. 2021 Oct 28. doi: 10.1002/sim.9240. [[DOI](https://doi.org10.1002/sim.9240)]. 
+    *Described in*: Ollier E, Blanchard P, Le Teuff G, Michiels S. Penalized Poisson model for network meta-analysis of individual patient time-to-event data. Stat Med. 2021 Oct 28. doi: 10.1002/sim.9240. [[DOI](https://doi.org/10.1002/sim.9240)]. 
+    
++ Drop the losers with historical control group [[link](https://github.com/Oncostat/DTLHC)]
+
+   *Described in*: Abbas R, Wason J, Michiels S, Le Teuff G. A two-stage drop-the-losers design for time-to-event outcome using a historical control arm. Pharm Stat. 2021 Sep 8. doi: 10.1002/pst.2168. [[DOI](https://doi.org/10.1002/pst.2168)]. 
 
  + Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
  
@@ -71,6 +75,6 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ## Under development 
 
- + Drop the losers with historical control group [[link](https://github.com/Oncostat/DTLHC)]
+
 
 
