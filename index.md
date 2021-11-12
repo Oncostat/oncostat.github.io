@@ -17,10 +17,14 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ### R packages and code
 
-+ Frequest individual patient data network meta-analysis for time-to-event data [[link](https://github.com/EdOllier/PenalizedPoissonNMA)].
++ Frequest individual patient data network meta-analysis for time-to-event data using penalized Poisson regression [[link](https://github.com/EdOllier/PenalizedPoissonNMA)].
     
     *Described in*: Ollier E, Blanchard P, Le Teuff G, Michiels S. Penalized Poisson model for network meta-analysis of individual patient time-to-event data. Stat Med. 2021 Oct 28. doi: 10.1002/sim.9240. [[DOI](https://doi.org/10.1002/sim.9240)]. 
+
++ SImulation study comparing individual patient vs. agregate 3-node time-to-event network meta-analysis with an effect modifier, using a unpenaliszed Poisson regression model. [[link](https://github.com/Oncostat/One_step_frequentitst_IPD_NMA)].
     
+ *Described in*: Faron M, Blanchard P, Ribassin-Majed L, Pignon JP, Michiels S, Le Teuff G. A frequentist one-step model for a simple network meta-analysis of time-to-event data in presence of an effect modifier. PLoS One. 2021 Nov 1;16(11):e0259121. [[DOI](https://doi.org/10.1371/journal.pone.0259121)]. 
+
 + Drop the losers with historical control group with time-to-event outcomes [[link](https://github.com/Oncostat/DTLHC)]
 
    *Described in*: Abbas R, Wason J, Michiels S, Le Teuff G. A two-stage drop-the-losers design for time-to-event outcome using a historical control arm. Pharm Stat. 2021 Sep 8. doi: 10.1002/pst.2168. [[DOI](https://doi.org/10.1002/pst.2168)]. 
