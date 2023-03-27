@@ -71,6 +71,16 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
     *Described in*: Meddis A, Latouche A, Zhou B, Michiels S, Fine J. Meta-analysis of clinical trials with competing time-to-event endpoints. Biom J. 2020 May;62(3):712-723. [[DOI](https://doi.org/10.1002/bimj.201900103)].
 
+### Python code
+
+-   CustOmics: A versatile deep-learning based strategy for multi-omics integration [[link](https://github.com/Oncostat/CustOmics)]
+
+    *Described in*: Benkirane H, Pradat Y, Michiels S, Cournède P-H (2023) CustOmics: A versatile deep-learning based strategy for multi-omics integration. PLoS Comput Biol 19(3): e1010921. [[DOI](https://doi.org/10.1371/journal.pcbi.1010921)].
+
+-   Hyper-AdaC: Adaptive clustering-based hypergraph representation of whole slide images for survival analysis [[link](https://proceedings.mlr.press/v193/benkirane22a.html)]
+
+    *Described in*: Benkirane, H., Vakalopoulou, M., Christodoulidis, S., Garberis, I., Michiels, S., Cournède, P. (2022) Hyper-AdaC: Adaptive clustering-based hypergraph representation of whole slide images for survival analysis. Proceedings of Machine Learning Research 193:405-418 [[link](https://proceedings.mlr.press/v193/benkirane22a.html)].
+
 ### SAS macros
 
 -   Dual-Agent Bayesian Continual Reassessment Method [[link](https://github.com/Oncostat/CRM2dim)]
