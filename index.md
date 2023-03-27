@@ -13,7 +13,23 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ## Software
 
-### R packages and code
+### R packages
+
+-   Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
+
+    *Described in*: Nils Ternès, Federico Rotolo, Stefan Michiels, biospear: an R package for biomarker selection in penalized Cox regression, Bioinformatics, Volume 34, Issue 1, 01 January 2018, Pages 112--113. [[DOI](https://doi.org/10.1093/bioinformatics/btx560)].
+
+-   Evaluation of Failure Time Surrogate Endpoints in Individual Patient Data Meta-Analyses, package `surrosurv` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/surrosurv)](https://cran.r-project.org/package=surrosurv) [[link](https://github.com/Oncostat/surrosurv)]
+
+    *Described in*: Federico Rotolo, Xavier Paoletti, Stefan Michiels, surrosurv: an R package for the evaluation of failure time surrogate endpoints in individual patient data meta-analyses of randomized clinical trials. Comput Methods Programs Biomed. 2018 Mar;155:189-198. [[DOI](https://doi.org/10.1016/j.cmpb.2017.12.005)].
+
+-   Parametric Frailty Models, package `parfm` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/parfm)](https://cran.r-project.org/package=parfm) [[link](https://github.com/Oncostat/parfm)]
+
+-   Import tool to work with TrialMaster, package `EDCImport` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/EDCimport)](https://cran.r-project.org/package=EDCimport) [[link](https://github.com/Oncostat/EDCImport)]
+
+-   Description tool to build tables and reports, package `crosstable` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/crosstable)](https://cran.r-project.org/package=crosstable) [[link](https://github.com/Oncostat/crosstable)]
+
+### R code
 
 -   Infinite sparse graphical independent component analysis (Variational Inference) [[link](https://github.com/Oncostat/isgICA)].
 
@@ -38,16 +54,6 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 -   Neural network implementations for time-to-event outcomes, including the use of pseudo-observations [[link](https://github.com/eroblin/NN_Pseudobs)]
 
     *Described in*: Elvire Roblin, PH Paul-Henri Cournede, Stefan Michiels (2020) On the Use of Neural Networks with Censored Time-to-Event Data In: Mathematical and Computational Oncology. ISMCO 2020. Lecture Notes in Computer Science, vol 12508. [[DOI](https://doi.org/10.1007/978-3-030-64511-3_6)].
-
--   Biomarker selection in penalized regression models, package `biospear` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/biospear)](https://cran.r-project.org/package=biospear) [[link](https://github.com/Oncostat/biospear)]
-
-    *Described in*: Nils Ternès, Federico Rotolo, Stefan Michiels, biospear: an R package for biomarker selection in penalized Cox regression, Bioinformatics, Volume 34, Issue 1, 01 January 2018, Pages 112--113. [[DOI](https://doi.org/10.1093/bioinformatics/btx560)].
-
--   Evaluation of Failure Time Surrogate Endpoints in Individual Patient Data Meta-Analyses, package `surrosurv` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/surrosurv)](https://cran.r-project.org/package=surrosurv) [[link](https://github.com/Oncostat/surrosurv)]
-
-    *Described in*: Federico Rotolo, Xavier Paoletti, Stefan Michiels, surrosurv: an R package for the evaluation of failure time surrogate endpoints in individual patient data meta-analyses of randomized clinical trials. Comput Methods Programs Biomed. 2018 Mar;155:189-198. [[DOI](https://doi.org/10.1016/j.cmpb.2017.12.005)].
-
--   Parametric Frailty Models, package `parfm` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/parfm)](https://cran.r-project.org/package=parfm) [[link](https://github.com/Oncostat/parfm)]
 
 -   Group Sequential Adaptive Designs in Series of Time-To-Event Randomised Trials in Rare Diseases: A Simulation Study [[link](https://github.com/Oncostat/Group-sequential-adaptive-designs-in-series-of-time-to-event-randomized-trials-in-rare-diseases)]
 
