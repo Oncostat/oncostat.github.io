@@ -29,6 +29,8 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 -   Description tool to build tables and reports, package `crosstable` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/crosstable)](https://cran.r-project.org/package=crosstable) [[link](https://github.com/Oncostat/crosstable)]
 
+-   R interface for NIH's joinpoint regression software ([link](https://surveillance.cancer.gov/joinpoint/callable/)) to build tables and reports, package `nih.joinpoint` [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/nih.joinpoint)](https://cran.r-project.org/package=crosstable) [[link](https://github.com/Oncostat/nih.joinpoint)]
+
 ### R code
 
 -   Infinite sparse graphical independent component analysis (Variational Inference) [[link](https://github.com/Oncostat/isgICA)].
