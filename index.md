@@ -33,9 +33,9 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ### R code
 
--   Infinite sparse graphical independent component analysis (Variational Inference) [[code](https://github.com/ShaimaBelhechmi/Adaptive-lasso-for-favoring-the-hierarchical-constraint-/tree/main)].
+-  Favouring the hierarchy constraint when penalising (many) biomarker by treatment interactions in a Cox regression model [[code](https://github.com/ShaimaBelhechmi/Adaptive-lasso-for-favoring-the-hierarchical-constraint-/tree/main)].
 
-    *Described in*: Rincourt SL, Michiels S, Drubay D. Complex Disease Individual Molecular Characterization Using Infinite Sparse Graphical Independent Component Analysis. Cancer Inform. 2022 Jul 15; doi: 10.1177/11769351221105776. [[DOI](https://doi.org/10.1177/11769351221105776)]
+    *Described in*: Belhechmi S, Le Teuff G, De Bin R, Rotolo F, Michiels S. Favoring the hierarchical constraint in penalized survival models for randomized trials in precision medicine. BMC Bioinformatics. 2023 Mar 16;24(1):96. doi: .  [[DOI](https://doi.org/10.1186/s12859-023-05162-x)]
 
 -   Survival infinite sparse graphical independent component analysis (Variational Inference) [[code](https://github.com/Oncostat/SisgICA)].
 
