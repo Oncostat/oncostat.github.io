@@ -33,7 +33,7 @@ Oncostat is a research team of the Centre for Epidemiology and Population Health
 
 ### R code
 
--   Infinite sparse graphical independent component analysis (Variational Inference) [[code](https://github.com/Oncostat/isgICA)].
+-   Infinite sparse graphical independent component analysis (Variational Inference) [[code](https://github.com/ShaimaBelhechmi/Adaptive-lasso-for-favoring-the-hierarchical-constraint-/tree/main)].
 
     *Described in*: Rincourt SL, Michiels S, Drubay D. Complex Disease Individual Molecular Characterization Using Infinite Sparse Graphical Independent Component Analysis. Cancer Inform. 2022 Jul 15; doi: 10.1177/11769351221105776. [[DOI](https://doi.org/10.1177/11769351221105776)]
 
