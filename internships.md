@@ -19,7 +19,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lien vers [le fichier PDF](https://danchaltiel.github.io/test_ghpages/source/hello_world.pdf)
+Lien vers [le fichier PDF](https://Oncostat/oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
 
 ## Stage: projet 2
 
