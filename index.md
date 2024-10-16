@@ -7,7 +7,7 @@
 <nav class="navbar">
     <ul class="nav-list">
         <li class="nav-item"><a href="index.html">Index</a></li>
-        <li class="nav-item"><a href="offers.html">Stage offers</a></li>
+        <li class="nav-item"><a href="internships.html">Stage offers</a></li>
     </ul>
 </nav>
 
