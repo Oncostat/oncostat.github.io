@@ -10,7 +10,7 @@
     </ul>
 </nav>
 
-# Intership offers
+# Internship offers 2024-2025
 
 ## Reference : StageM2-Oncostat2024
 
