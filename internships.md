@@ -12,31 +12,23 @@
 
 # Intership offers
 
-## Offer 1
+## Reference : StageM2-Oncostat2024
 
-- Reference : stagem2oncostat2024
-- Subject: modélisation des mesures répétées de lymphœdème dans l’étude phase III Hypog01 évaluant la radiothérapie hypo-fractionnée dans le cancer du sein
+- Subject: "Modélisation des mesures répétées de lymphœdème dans l’étude phase III Hypog01 évaluant la radiothérapie hypo-fractionnée dans le cancer du sein"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_sm_rg.pdf)
 
-Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_sm_rg.pdf)
+## Reference : StageM2-Oncostat2024/ma
 
-## Offer 2
+- Subject: "Estimation de l’hétérogénéité inter-essai de l’effet d’une exposition rare sur un critère rare dans une méta-analyse sur données individuelles"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_glt_nc.pdf)
 
-- Reference : stagem2oncostat2024/ma
-- Subject: estimation de l’hétérogénéité inter-essai de l’effet d’une exposition rare sur un critère rare dans une méta-analyse sur données individuelles
+## Reference : StageM2-Oncostat2024/clo 
 
-Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_glt_nc.pdf)
+- Subject: "Clonage censure et pondération : revue systématique et application"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_nst_tf.pdf)
 
-## Offer 3
+## Reference : IternCBio2025
 
-- Reference : stagem2oncostat2024/clo 
-- Sujet: clonage censure et pondération : revue systématique et application
-
-Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_nst_tf.pdf)
-
-## Offer 4
-
-- Reference : iternCBio2025
-- Subject: improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context.
-
-Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
+- Subject : "Improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
 
