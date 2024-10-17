@@ -10,27 +10,33 @@
     </ul>
 </nav>
 
-# Offres de stage
+# Intership offers
 
-## Stage: projet 1
+## Offer 1
 
-- Encadrant: XXX XXX
-- Sujet: hzidze
+- Reference : stagem2oncostat2024
+- Subject: modélisation des mesures répétées de lymphœdème dans l’étude phase III Hypog01 évaluant la radiothérapie hypo-fractionnée dans le cancer du sein
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_sm_rg.pdf)
+
+## Offer 2
+
+- Reference : stagem2oncostat2024/ma
+- Subject: estimation de l’hétérogénéité inter-essai de l’effet d’une exposition rare sur un critère rare dans une méta-analyse sur données individuelles
+
+Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_glt_nc.pdf)
+
+## Offer 3
+
+- Reference : stagem2oncostat2024/clo 
+- Sujet: clonage censure et pondération : revue systématique et application
+
+Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_nst_tf.pdf)
+
+## Offer 4
+
+- Reference : iternCBio2025
+- Subject: improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context.
 
 Lien vers [le fichier PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
 
-## Stage: projet 2
-
-- Encadrant: XXX XXX
-- Sujet: hzidze
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Stage: projet 3
-
-- Encadrant: XXX XXX
-- Sujet: hzidze
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
