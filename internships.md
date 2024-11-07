@@ -41,3 +41,7 @@
 
 - Subject : "Exploring the Relationship Between Smoking and Tumor Characteristics in Bladder Cancer"
 - [Link to PDF](https://oncostat.github.io/internships_pdf/stage_oncostat_coblance_vf.pdf)
+
+
+
+## The Oncostat team is always looking for talented students. Please do not hesitate to contact us at the following address: nadege.munier@gustaveroussy.fr
