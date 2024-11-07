@@ -10,7 +10,7 @@
     </ul>
 </nav>
 
-# Statistical packages, teaching material and Internship offers from Oncostat (CESP U1018 INSERM, Univ. Paris-Saclay, Department of Biostatistics and Epidemiology, Gustave Roussy)
+# Internship offers 2024/2025
 
 ## Reference : StageM2-Oncostat2024
 
