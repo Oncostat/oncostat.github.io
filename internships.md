@@ -36,3 +36,8 @@
 
 - Subject : "Exploring the Relationship Between Smoking and Tumor Characteristics in Bladder Cancer"
 - [Link to PDF](https://oncostat.github.io/internships_pdf/stage_oncostat_coblance_vf.pdf)
+
+## Reference : StageM2Oncostat2024/Epi
+
+- Subject : "Exploring the Relationship Between Smoking and Tumor Characteristics in Bladder Cancer"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_oncostat_coblance_vf.pdf)
