@@ -44,4 +44,4 @@
 
 
 
-#### The Oncostat team is always looking for talented students. Please do not hesitate to contact us at the following address: nadege.munier@gustaveroussy.fr
+#### The Oncostat team is always looking for talented students. Please do not hesitate to contact us at the following address: <nadege.munier@gustaveroussy.fr>
