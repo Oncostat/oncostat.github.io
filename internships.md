@@ -39,7 +39,7 @@
 
 ## Reference : StageM2Oncostat2024/Epi
 
-- Subject : "Exploring the Relationship Between Smoking and Tumor Characteristics in Bladder Cancer"
+- Subject : "Les méthodes de sélection en grande dimension pour les études épidémiologiques cas-témoins"
 - [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_méthodologie_biostatistique_2024_2025_glt_nh_ap.pdf)
 
 
