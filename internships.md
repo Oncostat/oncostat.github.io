@@ -15,7 +15,7 @@
 ## Reference : StageM2-Oncostat2024
 
 - Subject: "Modélisation des mesures répétées de lymphœdème dans l’étude phase III Hypog01 évaluant la radiothérapie hypo-fractionnée dans le cancer du sein"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_sm_rg.pdf)
+- Cette offre de stage est désormais pourvue !
 
 ## Reference : StageM2-Oncostat2024/ma
 
@@ -40,7 +40,7 @@
 ## Reference : StageM2Oncostat2024/Epi
 
 - Subject : "Les méthodes de sélection en grande dimension pour les études épidémiologiques cas-témoins"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_méthodologie_biostatistique_2024_2025_glt_nh_ap.pdf)
+- Cette offre de stage est désormais pourvue !
 
 
 
