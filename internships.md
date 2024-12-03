@@ -30,7 +30,7 @@
 ## Reference : InternCBio2025
 
 - Subject : "Improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
+- Cette offre de stage est désormais pourvue !
 
 ## Reference : InternCOBLAnCE2025
 
