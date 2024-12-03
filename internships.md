@@ -25,12 +25,12 @@
 ## Reference : StageM2-Oncostat2024/clo 
 
 - Subject: "Clonage censure et pondération : revue systématique et application"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_nst_tf.pdf)
+- Cette offre de stage est désormais pourvue !
 
 ## Reference : InternCBio2025
 
 - Subject : "Improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context"
-- Cette offre de stage est désormais pourvue !
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
 
 ## Reference : InternCOBLAnCE2025
 
