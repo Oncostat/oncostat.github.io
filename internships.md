@@ -35,7 +35,7 @@
 ## Reference : InternCOBLAnCE2025
 
 - Subject : "Exploring the Relationship Between Smoking and Tumor Characteristics in Bladder Cancer"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_oncostat_coblance_vf.pdf)
+- Cette offre de stage est désormais pourvue !
 
 ## Reference : StageM2Oncostat2024/Epi
 
