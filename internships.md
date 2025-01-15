@@ -20,7 +20,7 @@
 ## Reference : StageM2-Oncostat2024/ma
 
 - Subject: "Estimation de l’hétérogénéité inter-essai de l’effet d’une exposition rare sur un critère rare dans une méta-analyse sur données individuelles"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2024_2025_glt_nc.pdf)
+- Cette offre de stage est désormais pourvue !
 
 ## Reference : StageM2-Oncostat2024/clo 
 
