@@ -10,37 +10,24 @@
     </ul>
 </nav>
 
-# Internship offers 2024/2025
+# Internship offers 2025/2026
 
-## Reference : StageM2-Oncostat2024
+## Reference : StageM2-Oncostat2025/HYB
 
-- Subject: "Modélisation des mesures répétées de lymphœdème dans l’étude phase III Hypog01 évaluant la radiothérapie hypo-fractionnée dans le cancer du sein"
-- Cette offre de stage est désormais pourvue !
+- Subject: ": Bras contrôles hybrides dans les études de phase II : revue méthodologique et étude de cas"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2025_2026_nst_tf.pdf)
 
-## Reference : StageM2-Oncostat2024/ma
+## Reference : stage2025-WR
 
-- Subject: "Estimation de l’hétérogénéité inter-essai de l’effet d’une exposition rare sur un critère rare dans une méta-analyse sur données individuelles"
-- Cette offre de stage est désormais pourvue !
-
-## Reference : StageM2-Oncostat2024/clo 
-
-- Subject: "Clonage censure et pondération : revue systématique et application"
-- Cette offre de stage est désormais pourvue !
+- Subject: "Using Win Ratios as combined endpoints in trials in Oncology"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2025_2026_sf_sm.pdf)
 
 ## Reference : InternCBio2025
 
 - Subject : "Improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context"
 - [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
 
-## Reference : InternCOBLAnCE2025
 
-- Subject : "Exploring the Relationship Between Smoking and Tumor Characteristics in Bladder Cancer"
-- Cette offre de stage est désormais pourvue !
-
-## Reference : StageM2Oncostat2024/Epi
-
-- Subject : "Les méthodes de sélection en grande dimension pour les études épidémiologiques cas-témoins"
-- Cette offre de stage est désormais pourvue !
 
 
 
