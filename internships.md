@@ -22,10 +22,10 @@
 - Subject: "Using Win Ratios as combined endpoints in trials in Oncology"
 - [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2025_2026_sf_sm.pdf)
 
-## Reference : InternCBio2025
+## Reference : StageM2-Oncostat2025/SampleSize
 
-- Subject : "Improvement of the scalability of hypergraph inference based on infinite sparse independent component analysis in the context of high sample size and high dimensional context"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_hypergraph_dd_2025.pdf)
+- Subject : "Développement d’une alternative open-source sous R aux logiciels propriétaires de calcul de taille d’échantillon en oncologie"
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2025_2026_al_dc.pdf)
 
 
 
