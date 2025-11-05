@@ -25,7 +25,7 @@
 ## Reference : StageM2-Oncostat2025/SampleSize
 
 - Subject : "Développement d’une alternative open-source sous R aux logiciels propriétaires de calcul de taille d’échantillon en oncologie"
-- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2025_2026_al_dc_pourvue.pdf)
+- [Link to PDF](https://oncostat.github.io/internships_pdf/stage_m2_methodologie_biostatistique_2025_2026_al_dc.pdf)
 
 
 
